@@ -126,8 +126,12 @@ PRODUCT_PACKAGES += \
 # Charger
 PRODUCT_PACKAGES += \
     libsuspend
+=
+# Google Camera
+PRODUCT_PACKAGES += \
+    GoogleCameraGo
 
-# Config Store
+# Codec2 modules
 PRODUCT_PACKAGES += \
     disable_configstore
 
