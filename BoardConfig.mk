@@ -58,9 +58,6 @@ TARGET_SCREEN_DENSITY := 440
 # Camera
 TARGET_USES_QTI_CAMERA_DEVICE := true
 
-# Filesystem
-TARGET_FS_CONFIG_GEN := $(DEVICE_PATH)/configs/config.fs
-
 # DRM
 TARGET_ENABLE_MEDIADRM_64 := true
 
