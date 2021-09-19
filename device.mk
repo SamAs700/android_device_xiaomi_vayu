@@ -126,7 +126,6 @@ PRODUCT_PACKAGES += \
 # Charger
 PRODUCT_PACKAGES += \
     libsuspend
-=
 # Google Camera
 PRODUCT_PACKAGES += \
     GoogleCameraGo
